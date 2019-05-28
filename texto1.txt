@@ -1,4 +1,4 @@
-primerra linea cambio en remoto
+primerra linea cambio en remoto y en rama3 local
 segunda linea
 3.linea en rama1
 4 kubea en rama2
